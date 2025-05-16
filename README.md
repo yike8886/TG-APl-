@@ -6,39 +6,35 @@
 
 ### 废话不多说我们直接看效果
 ![Logo](https://pic1.imgdb.cn/item/682792f058cb8da5c8f7866f.jpg)
-✅ 第一步：安装 Python 环境
+## ✅ 第一步：安装 Python 环境
 
 <pre><code>
 apt update
 apt install python3.8-venv
 </code></pre>
 
-✅ 第二步：创建虚拟环境
+## ✅ 第二步：创建虚拟环境
 <pre><code>
 python3 -m venv myenv
 </code></pre>
-✅ 第三步：进入虚拟环境
 
+## ✅ 第三步：进入虚拟环境
+<pre><code>
 source myenv/bin/activate
+</code></pre>
 
-✅ 第四步：安装 Telegram 库 telethon
-
+##✅ 第四步：安装 Telegram 库 telethon
+<pre><code>
 pip install telethon
+</code></pre>
 
-
-✅ 第五步：执行脚本
-
+##✅ 第五步：执行脚本
+<pre><code>
 python3 脚本
+</code></pre>
 
 
-
-✅ 第六步：创建后台自动化进程（替换 /root/脚本 为你的路径
+##✅ 第六步：创建后台自动化进程（替换 /root/脚本 为你的路径
 
 nohup python3 /root/脚本.py > output.log 2>&1 &
 
-<pre lang="markdown">
-```bash
-apt update
-apt install python3.8-venv
-```
-</pre>
