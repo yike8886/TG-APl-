@@ -35,6 +35,6 @@ python3 脚本
 
 
 ## ✅ 第六步：创建后台自动化进程（替换 /root/脚本 为你的路径
-
+<pre><code>
 nohup python3 /root/脚本.py > output.log 2>&1 &
-
+</code></pre>
