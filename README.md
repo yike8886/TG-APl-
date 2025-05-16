@@ -38,7 +38,7 @@ python3 脚本
 <pre><code>
 nohup python3 /root/脚本.py > output.log 2>&1 &
 </code></pre>
-## 打赏小弟
+## 打赏明月trc
 
 <pre><code>
 TLbUByRD2jQWwJofLiXm6z5SUuEGuQL7oD
