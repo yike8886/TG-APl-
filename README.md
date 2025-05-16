@@ -38,3 +38,11 @@ python3 脚本
 <pre><code>
 nohup python3 /root/脚本.py > output.log 2>&1 &
 </code></pre>
+## 打赏小弟
+
+<pre><code>
+TLbUByRD2jQWwJofLiXm6z5SUuEGuQL7oD
+</code></pre>
+
+![Logo](https://img.picui.cn/free/2025/05/17/6827ab8156621.jpg)
+
