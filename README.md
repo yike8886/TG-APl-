@@ -8,8 +8,10 @@
 ![Logo](https://pic1.imgdb.cn/item/682792f058cb8da5c8f7866f.jpg)
 ✅ 第一步：安装 Python 环境
 
-apt update
-apt install python3.8-venv
+<pre><code>```bash
+python3 -m venv myenv
+```</code></pre>
+
 
 ✅ 第二步：创建虚拟环境
 
