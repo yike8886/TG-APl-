@@ -9,14 +9,14 @@
 ✅ 第一步：安装 Python 环境
 
 <pre><code>
-python3 -m venv myenv
+apt update
+apt install python3.8-venv
 </code></pre>
 
-
 ✅ 第二步：创建虚拟环境
-
+<pre><code>
 python3 -m venv myenv
-
+</code></pre>
 ✅ 第三步：进入虚拟环境
 
 source myenv/bin/activate
